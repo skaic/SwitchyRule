@@ -1,0 +1,18 @@
+; Summary: Proxy Switchy! Exported Rule List
+; Website: http://bit.ly/proxyswitchy
+
+#BEGIN
+
+[wildcard]
+*.amazonaws.com/*
+https://bitbucket.org*
+*.cloudfront.net/*
+*.facebook.com/*
+*git-scm.com/*
+*://twitter.com/*
+*://t.co/*
+
+[regexp]
+
+
+#END
