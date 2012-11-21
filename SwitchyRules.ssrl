@@ -13,7 +13,6 @@ https://cdn.optimizely.com/*
 *://twitter.com/*
 *://t.co/*
 https://*.atlassian.com/*
-*://www.google.com.hk/url*
 
 [regexp]
 
