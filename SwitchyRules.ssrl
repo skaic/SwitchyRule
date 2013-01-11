@@ -16,6 +16,9 @@ https://*.atlassian.com/*
 *.blogspot.com/*
 *.wordpress.com/*
 http://www.youtube.com/*
+https://www.google.com.hk/*
+https://www.google.com/*
+https://mail.google.com/*
 
 [regexp]
 
