@@ -18,6 +18,7 @@ https://*.atlassian.com/*
 http://www.youtube.com/*
 *.google.com.hk/*
 *.google.com/*
+*.gstatic.com/*
 
 [regexp]
 
