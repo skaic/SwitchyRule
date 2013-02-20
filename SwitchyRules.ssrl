@@ -19,6 +19,7 @@ http://www.youtube.com/*
 *.google.com.hk/*
 *.google.com/*
 *.gstatic.com/*
+http://sammyjs.org/*
 
 [regexp]
 
