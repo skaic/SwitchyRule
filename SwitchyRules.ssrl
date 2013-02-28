@@ -20,7 +20,8 @@ http://www.youtube.com/*
 *.google.com/*
 *.github.com/*
 *.php.net/*
-*.youtube.com/*
+https://*.youtube.com/*
+golang.org/*
 
 [regexp]
 
