@@ -21,6 +21,7 @@ http://www.youtube.com/*
 *.github.com/*
 *.php.net/*
 https://*.youtube.com/*
+*.ytimg.com/*
 golang.org/*
 
 [regexp]
