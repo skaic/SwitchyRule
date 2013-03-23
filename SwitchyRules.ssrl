@@ -23,7 +23,7 @@ http://www.youtube.com/*
 https://*.youtube.com/*
 *.ytimg.com/*
 golang.org/*
-
+*.engadget.com/*
 [regexp]
 
 
