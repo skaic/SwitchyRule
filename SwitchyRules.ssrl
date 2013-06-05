@@ -11,6 +11,7 @@ https://cdn.optimizely.com/*
 *.facebook.com/*
 *git-scm.com/*
 *://twitter.com/*
+*://*.twitter.com/*
 *://t.co/*
 https://*.atlassian.com/*
 *.blogspot.com/*
