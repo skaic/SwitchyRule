@@ -27,6 +27,7 @@ golang.org/*
 sourceforge.net/*
 *.gstatic.com/*
 http://sammyjs.org/*
+wikipedia.org/*
 [regexp]
 
 
