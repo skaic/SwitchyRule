@@ -9,6 +9,7 @@ https://bitbucket.org*
 *.cloudfront.net/*
 https://cdn.optimizely.com/*
 *.facebook.com/*
+*://connect.facebook.net/*
 *git-scm.com/*
 *://twitter.com/*
 *://*.twitter.com/*
@@ -30,7 +31,9 @@ http://sammyjs.org/*
 https://khan-academy.appspot.com/*
 http://bit.ly/*
 *://static.digg.com/*
+http://digg.com/reader/*
 *://cloud.feedly.com/*
+
 [regexp]
 
 
