@@ -33,6 +33,7 @@ http://bit.ly/*
 *://static.digg.com/*
 http://digg.com/*
 *://cloud.feedly.com/*
+http://feeds.feedburner.com/*
 
 [regexp]
 
