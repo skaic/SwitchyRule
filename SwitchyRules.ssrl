@@ -10,6 +10,7 @@ https://bitbucket.org*
 https://cdn.optimizely.com/*
 *.facebook.com/*
 *://connect.facebook.net/*
+*://*.fbcdn.net/*
 *git-scm.com/*
 *://twitter.com/*
 *://*.twitter.com/*
