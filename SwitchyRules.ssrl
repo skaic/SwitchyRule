@@ -6,7 +6,6 @@
 [wildcard]
 *.amazonaws.com/*
 https://bitbucket.org*
-*.cloudfront.net/*
 https://cdn.optimizely.com/*
 *.facebook.com/*
 *://connect.facebook.net/*
