@@ -6,21 +6,24 @@
 [wildcard]
 *.amazonaws.com/*
 https://bitbucket.org*
-*.cloudfront.net/*
 https://cdn.optimizely.com/*
 *.facebook.com/*
+*://connect.facebook.net/*
+*://*.fbcdn.net/*
 *git-scm.com/*
 *://twitter.com/*
+*://*.twitter.com/*
 *://t.co/*
 https://*.atlassian.com/*
 *.blogspot.com/*
 *.wordpress.com/*
-http://www.youtube.com/*
+*.youtube.com/*
 *.google.com.hk/*
 *.google.com/*
+*.googleusercontent.com/*
 *.github.com/*
+*.github.io/*
 *.php.net/*
-https://*.youtube.com/*
 *.ytimg.com/*
 golang.org/*
 *.engadget.com/*
@@ -28,6 +31,16 @@ sourceforge.net/*
 *.gstatic.com/*
 http://sammyjs.org/*
 wikipedia.org/*
+https://khan-academy.appspot.com/*
+http://bit.ly/*
+*://static.digg.com/*
+http://digg.com/*
+*://cloud.feedly.com/*
+http://feeds.feedburner.com/*
+http://www.json-generator.com/*
+*.chrome.com/*
+http://stackoverflow.com/*
+*.stackoverflow.com/*
 [regexp]
 
 
