@@ -43,6 +43,7 @@ http://stackoverflow.com/*
 *.stackoverflow.com/*
 *.wsj.com/*
 *.fastly.net/*
+*.githubusercontent.com/*
 [regexp]
 
 
