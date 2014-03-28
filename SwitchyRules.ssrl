@@ -42,6 +42,7 @@ http://www.json-generator.com/*
 http://stackoverflow.com/*
 *.stackoverflow.com/*
 *.wsj.com/*
+*.fastly.net/*
 [regexp]
 
 
