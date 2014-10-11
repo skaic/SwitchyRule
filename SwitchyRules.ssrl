@@ -23,7 +23,6 @@ https://*.atlassian.com/*
 *.googleusercontent.com/*
 *.github.com/*
 *.github.io/*
-*.php.net/*
 *.ytimg.com/*
 golang.org/*
 *.engadget.com/*
