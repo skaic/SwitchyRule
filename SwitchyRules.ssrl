@@ -35,6 +35,7 @@ http://bit.ly/*
 *://static.digg.com/*
 http://digg.com/*
 *://cloud.feedly.com/*
+*.haproxy.org/*
 http://feeds.feedburner.com/*
 http://www.json-generator.com/*
 *.chrome.com/*
